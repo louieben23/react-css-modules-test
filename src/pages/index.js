@@ -5,7 +5,7 @@ import Image from "../components/Image/Image"
 import SEO from "../components/seo"
 
 // Legacy Style Example
-import "../scss/App.css"
+import Styles from "../scss/App.scss"
 
 
 const IndexPage = () => (
